@@ -4,7 +4,8 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
-        "potter/logger-interface": "dev-main"
+        "potter/logger-interface": "dev-main",
+        "potter/logger-trait": "dev-main"
     },
     "license": "MIT",
     "authors": [
