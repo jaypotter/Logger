@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/logger-interface": "dev-main",
-        "potter/logger-trait": "dev-main"
+        "potter/logger-trait": "dev-main",
+        "potter/logger-aware": "dev-main"
     },
     "license": "MIT",
     "authors": [
