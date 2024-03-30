@@ -8,6 +8,10 @@
         "potter/logger-trait": "dev-main",
         "potter/logger-aware": "dev-main"
     },
+    "suggest": {
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
