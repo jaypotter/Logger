@@ -3,9 +3,10 @@
     "description": "PHP PSR-3 Logger Implementation",
     "type": "library",
     "require": {
+        "monolog/monolog": "^3.9",
         "php": ">=8.0.0",
-        "psr/log": "^3.0",
-        "monolog/monolog": "^3.9"
+        "potter/resettable": "^0.0.1",
+        "psr/log": "^3.0"
     },
     "license": "MIT",
     "autoload": {
